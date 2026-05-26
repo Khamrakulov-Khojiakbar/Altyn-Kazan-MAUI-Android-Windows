@@ -1,0 +1,1 @@
+# Altyn-Kazan-MAUI-Android-Windows
