@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\resources\\raw\\menu.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\resources\\raw\\menu.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\altynkazanmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\altynkazanmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hamra\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|d:\\dev\\altynkazan maui\\altynkazanmaui\\altynkazanmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11712410-3374-5638-55BF-8E7F07C5EA26}|AltynKazanMAUI\\AltynKazanMAUI.csproj|solutionrelative:altynkazanmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\hamra\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\hamra\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAuwKYBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-23T11:49:10.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AltynKazanMAUI.csproj",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\AltynKazanMAUI.csproj",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\AltynKazanMAUI.csproj",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\AltynKazanMAUI.csproj",
+              "RelativeToolTip": "AltynKazanMAUI\\AltynKazanMAUI.csproj",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-23T11:44:37.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "AltynKazanMAUI\\Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACWAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-23T11:43:47.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appicon.svg",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\AppIcon\\appicon.svg",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Resources\\AppIcon\\appicon.svg",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\AppIcon\\appicon.svg",
+              "RelativeToolTip": "AltynKazanMAUI\\Resources\\AppIcon\\appicon.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-05-23T11:43:46.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "AltynKazanMAUI\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:43:40.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "AltynKazanMAUI\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-23T11:43:35.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutAssets.txt",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Resources\\Raw\\AboutAssets.txt",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeToolTip": "AltynKazanMAUI\\Resources\\Raw\\AboutAssets.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-23T11:43:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\App.xaml",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\App.xaml",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\App.xaml",
+              "RelativeToolTip": "AltynKazanMAUI\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T11:43:06.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\AppShell.xaml",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\AppShell.xaml",
+              "RelativeToolTip": "AltynKazanMAUI\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T11:08:05.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\MainPage.xaml.cs",
+              "RelativeToolTip": "AltynKazanMAUI\\MainPage.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:05:44.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.json",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\Raw\\menu.json",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Resources\\Raw\\menu.json",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Resources\\Raw\\menu.json",
+              "RelativeToolTip": "AltynKazanMAUI\\Resources\\Raw\\menu.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-23T11:03:59.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Models\\Dish.cs",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Models\\Dish.cs",
+              "RelativeToolTip": "AltynKazanMAUI\\Models\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:02:59.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "AltynKazanMAUI\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T11:00:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\MainPage.xaml",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\MainPage.xaml",
+              "RelativeToolTip": "AltynKazanMAUI\\MainPage.xaml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAkwJAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-23T10:56:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AltynKazanMAUI\\MauiProgram.cs",
+              "ToolTip": "D:\\Dev\\AltynKazan maui\\AltynKazanMAUI\\AltynKazanMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "AltynKazanMAUI\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:53:34.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

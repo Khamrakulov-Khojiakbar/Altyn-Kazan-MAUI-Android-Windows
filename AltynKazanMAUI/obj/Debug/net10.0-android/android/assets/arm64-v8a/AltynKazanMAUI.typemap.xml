@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="AltynKazanMAUI" mvid="88a81415a73d43eca5380591614e52a0">
+  <java-to-managed>
+    <entry java-name="crc6440ac21e37684dd26/MainActivity" managed-name="AltynKazanMAUI.MainActivity, AltynKazanMAUI" managed-type-token-id="33554442" />
+    <entry java-name="crc6440ac21e37684dd26/MainApplication" managed-name="AltynKazanMAUI.MainApplication, AltynKazanMAUI" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc6440ac21e37684dd26/MainActivity" managed-name="AltynKazanMAUI.MainActivity, AltynKazanMAUI" managed-type-token-id="33554442" />
+    <entry java-name="crc6440ac21e37684dd26/MainApplication" managed-name="AltynKazanMAUI.MainApplication, AltynKazanMAUI" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>
