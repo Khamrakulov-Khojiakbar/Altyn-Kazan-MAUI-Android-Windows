@@ -24,7 +24,7 @@
     "Name": "Уйдун куйругу (дум)",
     "Description": "Уйдун куйругу, картошка",
     "Price": 480,
-    "ImageUrl": "uydunquyrugu.jpg",
+    "ImageUrl": "uydun_quyrugu.jpg",
     "Category": "ӨЗГӨЧӨ ТАМАКТАР"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "Name": "Ачуу эт",
-    "Description": "Эт, HTML калемпир, картошка",
+    "Description": "Эт, калемпир, картошка",
     "Price": 550,
     "ImageUrl": "achuuet.jpg",
     "Category": "ӨЗГӨЧӨ ТАМАКТАР"
@@ -52,7 +52,7 @@
     "Name": "Овощные нарезки",
     "Description": "Жаңы бадыраң, помидор, көк чөптөр топтому",
     "Price": 265,
-    "ImageUrl": "ovoshnye_narezki.jpg",
+    "ImageUrl": "ovoshnarezki.jpg",
     "Category": "САЛАТТАР"
   },
   {
@@ -95,13 +95,6 @@
     "Description": "Куурулган тоок филеси, крутондор, пармезан, цезарь соусу",
     "Price": 275,
     "ImageUrl": "tsezar_chicken.jpg",
-    "Category": "САЛАТТАР"
-  },
-  {
-    "Name": "Өздүк салат",
-    "Description": "Ашпозчунун өзгөчө рецеби боюнча даярдалган фирмендик салат",
-    "Price": 350,
-    "ImageUrl": "ozduk_salat.jpg",
     "Category": "САЛАТТАР"
   },
   {
@@ -161,7 +154,7 @@
     "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Чечевичный шорпо",
+    "Name": "Чечевичный",
     "Description": "Турк стилиндеги майдаланган лимон кошулган чечевица шорпосу",
     "Price": 220,
     "ImageUrl": "chechevichniy.jpg",
@@ -203,13 +196,6 @@
     "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Харчо",
-    "Description": "Күрүч, сарымсак жана ачуу татымалдар кошулган грузин шорпосу",
-    "Price": 230,
-    "ImageUrl": "harcho.jpg",
-    "Category": "СУЮК ТАМАКТАР"
-  },
-  {
     "Name": "Шишкебек Кой эти",
     "Description": "Мангалда отко бышкан жумшак кой этинин бөлүктөрү",
     "Price": 190,
@@ -231,13 +217,6 @@
     "Category": "ШИШКЕБЕКТЕР"
   },
   {
-    "Name": "Наполеон шашлык",
-    "Description": "Эт менен курдюк майы кезектешип тизилген назик шишкебек",
-    "Price": 210,
-    "ImageUrl": "napoleon_shashlyk.jpg",
-    "Category": "ШИШКЕБЕКТЕР"
-  },
-  {
     "Name": "Канатчалар",
     "Description": "Кытырак кабыкчасы бар отко какталган тоок канаттары",
     "Price": 220,
@@ -249,20 +228,6 @@
     "Description": "Жука оролгон фарштан өзгөчө люля-кебаб варианты",
     "Price": 150,
     "ImageUrl": "oromo_kebab.jpg",
-    "Category": "ШИШКЕБЕКТЕР"
-  },
-  {
-    "Name": "Искендер кебаб",
-    "Description": "Белгилүү түрк рецеби боюнча отко бышырылган кебаб",
-    "Price": 165,
-    "ImageUrl": "iskender_kebab.jpg",
-    "Category": "ШИШКЕБЕКТЕР"
-  },
-  {
-    "Name": "Кавказ шашлыгы",
-    "Description": "Чоң кесилген эт кесимдеринен жасалган Кавказ стилиндеги шашлык",
-    "Price": 265,
-    "ImageUrl": "kavkaz_shashlyk.jpg",
     "Category": "ШИШКЕБЕКТЕР"
   },
   {
@@ -350,31 +315,38 @@
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
-    "Name": "Уйгур лагман",
+    "Name": "Уйгур лагман 0.7 порц",
     "Description": "Куурулган сочный сай (жашылча-эт соусу) менен уйгур лагманы",
     "Price": 300,
     "ImageUrl": "uygur_lagman.jpg",
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
-    "Name": "Айрим сай лагман",
-    "Description": "Чоюлган камыры бөлөк, куурулган соусу бөлөк идиште берилет",
+    "Name": "Уйгур лагман 1.0 порц",
+    "Description": "Куурулган сочный сай (жашылча-эт соусу) менен уйгур лагманы",
     "Price": 320,
-    "ImageUrl": "ayrim_say.jpg",
+    "ImageUrl": "uygur_lagman.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Айрим сай",
+    "Description": "Уйгур лагманы жана сочный сай",
+    "Price": 320,
+    "ImageUrl": "ayrimsay.jpg",
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
     "Name": "Ган фан",
-    "Description": "Бышырылган ак күрүч үстүнө куурулган эт жана жашылча чыгы",
+    "Description": "Кайнатылган куруч жана уйгур сочный сай",
     "Price": 340,
     "ImageUrl": "ganfan.jpg",
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
-    "Name": "Босо лагман",
-    "Description": "Камыры эт жана жашылчалар менен бирге куурулган лагман",
+    "Name": "Босолагман",
+    "Description": "Лапша менен сочный сай отто куурулганы",
     "Price": 340,
-    "ImageUrl": "boso_lagman.jpg",
+    "ImageUrl": "bosolagman.jpg",
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
@@ -385,8 +357,8 @@
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
-    "Name": "Беш бармак",
-    "Description": "Кыргыздын улуттук сый тамагы: майда тууралган эт, камыр жана чык",
+    "Name": "Бешбармак",
+    "Description": "Камр менен жасалган улуттук тамак",
     "Price": 500,
     "ImageUrl": "beshbarmak.jpg",
     "Category": "ЭКИНЧИ ТАМАКТАР"
@@ -406,20 +378,6 @@
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
-    "Name": "Лапша с курицей",
-    "Description": "Үйдө кесилген кесме тоок эти жана жашылчалар менен",
-    "Price": 440,
-    "ImageUrl": "lapsha_chicken.jpg",
-    "Category": "ЭКИНЧИ ТАМАКТАР"
-  },
-  {
-    "Name": "Лапша с говядиной",
-    "Description": "Үйдө кесилген кесме уйдун эти жана соусу менен",
-    "Price": 440,
-    "ImageUrl": "lapsha_beef.jpg",
-    "Category": "ЭКИНЧИ ТАМАКТАР"
-  },
-  {
     "Name": "Паста с курицей",
     "Description": "Каймак соусундагы тоок филеси кошулган италиялык паста",
     "Price": 440,
@@ -427,7 +385,7 @@
     "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
-    "Name": "Картошель фри",
+    "Name": "Картофель фри",
     "Description": "Алтын түстөгү кытырак картошка таякчалары",
     "Price": 110,
     "ImageUrl": "kartoshka_fri.jpg",
@@ -528,7 +486,7 @@
     "Name": "Айран собой",
     "Description": "Өзү менен алып кетүүгө ыңгайлуу кутудагы айран",
     "Price": 55,
-    "ImageUrl": "ayran_soboy.jpg",
+    "ImageUrl": "ayran_zal.jpg",
     "Category": "КОШУМЧАЛАР"
   },
   {
@@ -563,7 +521,7 @@
     "Name": "Минералка 0.5 литр",
     "Description": "Газдалган же газдалбаган минералдык суу (0.5 литр)",
     "Price": 45,
-    "ImageUrl": "mineralka_05l.jpg",
+    "ImageUrl": "mineralka_1l.jpg",
     "Category": "СУУСУНДУКТАР"
   },
   {
@@ -574,17 +532,10 @@
     "Category": "СУУСУНДУКТАР"
   },
   {
-    "Name": "Сок 0.33 литр",
-    "Description": "Кичинекей кутудагы же бөтөлкөдөгү муздак сок (0.33 литр)",
-    "Price": 60,
-    "ImageUrl": "juice_033l.jpg",
-    "Category": "СУУСУНДУКТАР"
-  },
-  {
     "Name": "Кара чай",
     "Description": "Чайнекке демделген классикалык кара чай",
     "Price": 30,
-    "ImageUrl": "black_tea.jpg",
+    "ImageUrl": "chay_simple.jpg",
     "Category": "СУУСУНДУКТАР"
   },
   {

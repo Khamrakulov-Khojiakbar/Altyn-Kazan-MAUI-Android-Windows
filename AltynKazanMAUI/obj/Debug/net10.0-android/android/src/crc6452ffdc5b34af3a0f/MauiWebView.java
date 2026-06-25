@@ -10,6 +10,8 @@ public class MauiWebView
 	public static final String __md_methods;
 	static {
 		__md_methods = 
+			"n_onSizeChanged:(IIII)V:GetOnSizeChanged_IIIIHandler\n" +
+			"n_onAttachedToWindow:()V:GetOnAttachedToWindowHandler\n" +
 			"";
 		mono.android.Runtime.register ("Microsoft.Maui.Platform.MauiWebView, Microsoft.Maui", MauiWebView.class, __md_methods);
 	}
@@ -53,6 +55,20 @@ public class MauiWebView
 			mono.android.TypeManager.Activate ("Microsoft.Maui.Platform.MauiWebView, Microsoft.Maui", "Android.Content.Context, Mono.Android", this, new java.lang.Object[] { p0 });
 		}
 	}
+
+	public void onSizeChanged (int p0, int p1, int p2, int p3)
+	{
+		n_onSizeChanged (p0, p1, p2, p3);
+	}
+
+	private native void n_onSizeChanged (int p0, int p1, int p2, int p3);
+
+	public void onAttachedToWindow ()
+	{
+		n_onAttachedToWindow ();
+	}
+
+	private native void n_onAttachedToWindow ();
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

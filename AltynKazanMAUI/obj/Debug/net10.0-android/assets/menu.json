@@ -1,163 +1,639 @@
 [
   {
-    "Name": "Люля-Кебаб",
-    "Description": "Сочный кебаб из рубленной говядины со специями и луком",
+    "Name": "Ташкент ашы",
+    "Description": "Лазер куручу, себиз, койдун эти, казы",
     "Price": 320,
-    "ImageUrl": "kebab.jpg",
-    "Category": "Шашлык"
-  },
-  {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
     "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Category": "ӨЗГӨЧӨ ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
+    "Name": "Койдун моюну",
+    "Description": "Койдун эти (моюну), картошка",
+    "Price": 1200,
+    "ImageUrl": "qoydunmoyunu.jpg",
+    "Category": "ӨЗГӨЧӨ ТАМАКТАР"
+  },
+  {
+    "Name": "Кууват шорпо",
+    "Description": "Кой эти, мал эти, хасыб, койдун куйругу",
+    "Price": 460,
+    "ImageUrl": "quubatshorpo.jpg",
+    "Category": "ӨЗГӨЧӨ ТАМАКТАР"
+  },
+  {
+    "Name": "Уйдун куйругу (дум)",
+    "Description": "Уйдун куйругу, картошка",
+    "Price": 480,
+    "ImageUrl": "uydun_quyrugu.jpg",
+    "Category": "ӨЗГӨЧӨ ТАМАКТАР"
+  },
+  {
+    "Name": "Койдун башы",
+    "Description": "Койдун башы, картошка",
+    "Price": 870,
+    "ImageUrl": "qoydunbashi.jpg",
+    "Category": "ӨЗГӨЧӨ ТАМАКТАР"
+  },
+  {
+    "Name": "Ачуу эт",
+    "Description": "Эт, калемпир, картошка",
+    "Price": 550,
+    "ImageUrl": "achuuet.jpg",
+    "Category": "ӨЗГӨЧӨ ТАМАКТАР"
+  },
+  {
+    "Name": "Ачуу салат",
+    "Description": "Эт, калемпир, бадыраң, болгар калемпири",
+    "Price": 275,
+    "ImageUrl": "achuusalat.jpg",
+    "Category": "САЛАТТАР"
+  },
+  {
+    "Name": "Овощные нарезки",
+    "Description": "Жаңы бадыраң, помидор, көк чөптөр топтому",
+    "Price": 265,
+    "ImageUrl": "ovoshnarezki.jpg",
+    "Category": "САЛАТТАР"
+  },
+  {
+    "Name": "Оливье",
+    "Description": "Классикалык салттуу оливье салаты",
+    "Price": 220,
+    "ImageUrl": "olivie.jpg",
+    "Category": "САЛАТТАР"
+  },
+  {
+    "Name": "Шакарап",
+    "Description": "Помидор, пияз жана татымалдар кошулган салат",
+    "Price": 160,
+    "ImageUrl": "shakarap.jpg",
+    "Category": "САЛАТТАР"
+  },
+  {
+    "Name": "Рукола с языком",
+    "Description": "Жаңы рукола, сууга бышкан уйдун тили жана атайын чык",
     "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "ImageUrl": "rukola_s_yazykom.jpg",
+    "Category": "САЛАТТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
+    "Name": "Греческий салат",
+    "Description": "Бадыраң, помидор, зайтун мөмөсү, фэта сыры",
+    "Price": 285,
+    "ImageUrl": "grecheskiy.jpg",
+    "Category": "САЛАТТАР"
+  },
+  {
+    "Name": "Колхозный салат",
+    "Description": "Үй шартында даярдалган табигый жашылча салаты",
+    "Price": 265,
+    "ImageUrl": "kolhozniy.jpg",
+    "Category": "САЛАТТАР"
+  },
+  {
+    "Name": "Цезарь тоок эти менен",
+    "Description": "Куурулган тоок филеси, крутондор, пармезан, цезарь соусу",
+    "Price": 275,
+    "ImageUrl": "tsezar_chicken.jpg",
+    "Category": "САЛАТТАР"
+  },
+  {
+    "Name": "Тещин язык",
+    "Description": "Ачуу соус жана сарымсак менен куурулган баклажандар",
     "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "ImageUrl": "teshin_yazyk.jpg",
+    "Category": "САЛАТТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
+    "Name": "Пельмень с бульоном",
+    "Description": "Үйдө жасалган майда пельмендер ысык эт бульонунда",
     "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "ImageUrl": "pelmeni_s_bulionom.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
+    "Name": "Мампар",
+    "Description": "Тугой камыр, эт, жашылчалар жана жумуртка куймасы",
+    "Price": 270,
+    "ImageUrl": "mampar.jpg",
+    "Category": "СУЮК ТАМАКТАР"
+  },
+  {
+    "Name": "Шорпо кой эти менен",
+    "Description": "Койдун жумшак этинен жасалган салттуу тунук шорпо",
+    "Price": 290,
+    "ImageUrl": "shorpo_qoy.jpg",
+    "Category": "СУЮК ТАМАКТАР"
+  },
+  {
+    "Name": "Шорпо уй эти менен",
+    "Description": "Уйдун эти жана ири кесилген жашылчалар кошулган шорпо",
     "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "ImageUrl": "shorpo_uy.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Борщ",
+    "Description": "Капуста, кызылча жана эт кошулган классикалык борщ",
+    "Price": 255,
+    "ImageUrl": "borsch.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Казакча шорпо",
+    "Description": "Казак улуттук рецеби боюнча даярдалган даамдуу шорпо",
+    "Price": 255,
+    "ImageUrl": "kazakcha_shorpo.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Чучвара с подливом",
+    "Description": "Жаңы тартылган эттен жасалган чык (подлив) менен чучвара",
+    "Price": 275,
+    "ImageUrl": "chuchvara_podliv.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Чечевичный",
+    "Description": "Турк стилиндеги майдаланган лимон кошулган чечевица шорпосу",
+    "Price": 220,
+    "ImageUrl": "chechevichniy.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Долма",
+    "Description": "Үзүм (виноград) жалбырагына оролгон фарш ысык шорподо",
+    "Price": 300,
+    "ImageUrl": "dolma.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Мастава",
+    "Description": "Күрүч, майда тууралган эт жана жашылчалар кошулган суюк тамак",
+    "Price": 230,
+    "ImageUrl": "mastava.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Улуттук лагман",
+    "Description": "Колдон чоюлган созулма камыр жана сочный лагман соусу",
+    "Price": 260,
+    "ImageUrl": "uluttuk_lagman.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Шорпо куурулган",
+    "Description": "Алдын ала куурулган эт жана картошка кошулган өзгөчө шорпо",
+    "Price": 285,
+    "ImageUrl": "shorpo_kuurulan.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Тоок шорпосу",
+    "Description": "Тоок филеси жана ичке кесме кошулган жеңил диеталык шорпо",
+    "Price": 240,
+    "ImageUrl": "took_shorpo.jpg",
+    "Category": "СУЮК ТАМАКТАР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Шишкебек Кой эти",
+    "Description": "Мангалда отко бышкан жумшак кой этинин бөлүктөрү",
+    "Price": 190,
+    "ImageUrl": "shashlyk_qoy.jpg",
+    "Category": "ШИШКЕБЕКТЕР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Шишкебек Үй эти",
+    "Description": "Атайын маринаддалган ширелүү уй этинен жасалган шашлык",
+    "Price": 190,
+    "ImageUrl": "shashlyk_uy.jpg",
+    "Category": "ШИШКЕБЕКТЕР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Гиждуван шишкебек",
+    "Description": "Гиждуван рецеби боюнча фарштан даярдалган назик шишкебек",
+    "Price": 165,
+    "ImageUrl": "gijduvan.jpg",
+    "Category": "ШИШКЕБЕКТЕР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Канатчалар",
+    "Description": "Кытырак кабыкчасы бар отко какталган тоок канаттары",
+    "Price": 220,
+    "ImageUrl": "kanatchalar.jpg",
+    "Category": "ШИШКЕБЕКТЕР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Оромо кебаб",
+    "Description": "Жука оролгон фарштан өзгөчө люля-кебаб варианты",
+    "Price": 150,
+    "ImageUrl": "oromo_kebab.jpg",
+    "Category": "ШИШКЕБЕКТЕР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Кебаб",
+    "Description": "Классикалык нукура люля-кебаб",
+    "Price": 145,
+    "ImageUrl": "kebab_simple.jpg",
+    "Category": "ШИШКЕБЕКТЕР"
   },
   {
-    "Name": "Плов Праздничный",
-    "Description": "Традиционный плов с лазерным рисом, нежным мясом баранины и нутом",
-    "Price": 280,
-    "ImageUrl": "plov.jpg",
-    "Category": "Горячее"
+    "Name": "Бифштекс",
+    "Description": "Куурулган жумуртка жана гарнир менен берилүүчү ширелүү бифштекс",
+    "Price": 270,
+    "ImageUrl": "bifshteks.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
   },
   {
-    "Name": "Шорпо",
-    "Description": "Наваристый мясной бульон с крупными овощами и свежей зеленью",
+    "Name": "Гуляш",
+    "Description": "Таттуу соуста бышырылган жумшак эт жана картошка пюреси",
+    "Price": 300,
+    "ImageUrl": "gulyash.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Козукарын менен эт",
+    "Description": "Жаңы козукарындар (грибы) менен куурулган ширелүү эт",
+    "Price": 490,
+    "ImageUrl": "kozukaryn_et.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Жаровня уй этинен",
+    "Description": "Чоюн табада ысык берилүүчү уй эти жана болгар калемпири",
+    "Price": 510,
+    "ImageUrl": "jarovnya_uy.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Жаровня кой этинен",
+    "Description": "Чоюн табада пияз менен куурулган кой эти",
+    "Price": 500,
+    "ImageUrl": "jarovnya_qoy.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Жаровня тоок этинен",
+    "Description": "Ысык бойдон чоюн табада куурулуп келе турган тоок эти",
+    "Price": 480,
+    "ImageUrl": "jarovnya_took.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Каймактуу соустагы эт",
+    "Description": "Назик ак каймак (сливки) соусунда бышырылган жумшак эт",
+    "Price": 450,
+    "ImageUrl": "kaimaktuu_sous.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Куурдак",
+    "Description": "Пияз жана кытырак картошка менен куурулган кыргыздын улуттук куурдагы",
+    "Price": 540,
+    "ImageUrl": "kuurdak.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Эт менен картошка фри",
+    "Description": "Куурулган эт тилкелери алтын түстөгү картошка фри менен",
+    "Price": 495,
+    "ImageUrl": "et_fri.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Венециандык эт",
+    "Description": "Өзгөчө европалык маринад жана рецепт менен даярдалган тамак",
+    "Price": 530,
+    "ImageUrl": "venetsiyandyk_et.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Үйдө жасалган котлет",
+    "Description": "Гарнири менен үйдөгүдөй жасалган ширелүү котлеттер",
+    "Price": 290,
+    "ImageUrl": "uydo_jasalgan_kotlet.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Уйгур лагман 0.7 порц",
+    "Description": "Куурулган сочный сай (жашылча-эт соусу) менен уйгур лагманы",
+    "Price": 300,
+    "ImageUrl": "uygur_lagman.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Уйгур лагман 1.0 порц",
+    "Description": "Куурулган сочный сай (жашылча-эт соусу) менен уйгур лагманы",
+    "Price": 320,
+    "ImageUrl": "uygur_lagman.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Айрим сай",
+    "Description": "Уйгур лагманы жана сочный сай",
+    "Price": 320,
+    "ImageUrl": "ayrimsay.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Ган фан",
+    "Description": "Кайнатылган куруч жана уйгур сочный сай",
+    "Price": 340,
+    "ImageUrl": "ganfan.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Босолагман",
+    "Description": "Лапша менен сочный сай отто куурулганы",
+    "Price": 340,
+    "ImageUrl": "bosolagman.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Тоок эти сыр менен",
+    "Description": "Духовкада эритилген сыр алдында бышкан назик тоок филеси",
+    "Price": 500,
+    "ImageUrl": "took_syr.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Бешбармак",
+    "Description": "Камр менен жасалган улуттук тамак",
+    "Price": 500,
+    "ImageUrl": "beshbarmak.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Эт менен манты",
+    "Description": "Жука камырга түйүлгөн рубленая говядина кошулган ширелүү манты (порция)",
     "Price": 250,
-    "ImageUrl": "shorpo.jpg",
-    "Category": "Супы"
+    "ImageUrl": "manty_et.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Куурулган манты",
+    "Description": "Майда куурулуп, кытырак алтын кабыкка ээ болгон мантылар (порция)",
+    "Price": 275,
+    "ImageUrl": "kuurulgan_manty.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Паста с курицей",
+    "Description": "Каймак соусундагы тоок филеси кошулган италиялык паста",
+    "Price": 440,
+    "ImageUrl": "pasta_chicken.jpg",
+    "Category": "ЭКИНЧИ ТАМАКТАР"
+  },
+  {
+    "Name": "Картофель фри",
+    "Description": "Алтын түстөгү кытырак картошка таякчалары",
+    "Price": 110,
+    "ImageUrl": "kartoshka_fri.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Картошка пюре",
+    "Description": "Сүт жана сары май менен жасалган назик картөшкө пюреси",
+    "Price": 65,
+    "ImageUrl": "pyure.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Күрүч кайнатылган",
+    "Description": "Гарнир үчүн сууга бышырылган ак күрүч",
+    "Price": 60,
+    "ImageUrl": "kuruch.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Шорпо (бульон)",
+    "Description": "Таза, наваристый жана тунук ысык эт бульону",
+    "Price": 65,
+    "ImageUrl": "bulion.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Котлета",
+    "Description": "Кошумча буйрутма үчүн бир даана үйдө жасалган котлета",
+    "Price": 60,
+    "ImageUrl": "kotleta_side.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Наават",
+    "Description": "Чайга кошуп ичүүчү улуттук кристалл кант",
+    "Price": 40,
+    "ImageUrl": "naavat.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Сметаны",
+    "Description": "Жаңы, коюу жана даамдуу каймак/сметана",
+    "Price": 40,
+    "ImageUrl": "smetana.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Лимон",
+    "Description": "Чайга кошуу үчүн тилинген жаңы лимон кесимдери",
+    "Price": 40,
+    "ImageUrl": "limon_slice.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Ачуу суу",
+    "Description": "Табитти ачуучу атайын ачуу соус же суу",
+    "Price": 40,
+    "ImageUrl": "achuu_suu.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Казы",
+    "Description": "Жылкынын этинен жасалган салттуу деликатес (бир кесим)",
+    "Price": 40,
+    "ImageUrl": "kazy_side.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Томат соусу",
+    "Description": "Жаңы помидордон татымалдар менен жасалган соус",
+    "Price": 45,
+    "ImageUrl": "tomat_sous.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Чай",
+    "Description": "Кадимки ысык демделген кара же жашыл чай",
+    "Price": 30,
+    "ImageUrl": "chay_simple.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Нан",
+    "Description": "Тандырдан жаңы эле үзүлгөн ысык нан",
+    "Price": 15,
+    "ImageUrl": "nan.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Айран зал",
+    "Description": "Ресторандын залында ичүү үчүн муздак айран",
+    "Price": 45,
+    "ImageUrl": "ayran_zal.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Айран собой",
+    "Description": "Өзү менен алып кетүүгө ыңгайлуу кутудагы айран",
+    "Price": 55,
+    "ImageUrl": "ayran_zal.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Перепелиные яйца",
+    "Description": "Сууга бышырылган бөдөнө жумурткасы (бир даана)",
+    "Price": 20,
+    "ImageUrl": "perepel_yaitsa.jpg",
+    "Category": "КОШУМЧАЛАР"
+  },
+  {
+    "Name": "Напитки 1 литр",
+    "Description": "Муздак ширелер же газдалган суусундуктар (1 литр)",
+    "Price": 110,
+    "ImageUrl": "napitki_1l.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Напитки 0.5 литр",
+    "Description": "Муздак ширелер же газдалган суусундуктар (0.5 литр)",
+    "Price": 70,
+    "ImageUrl": "napitki_05l.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Минералка 1 литр",
+    "Description": "Газдалган же газдалбаган минералдык суу (1 литр)",
+    "Price": 70,
+    "ImageUrl": "mineralka_1l.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Минералка 0.5 литр",
+    "Description": "Газдалган же газдалбаган минералдык суу (0.5 литр)",
+    "Price": 45,
+    "ImageUrl": "mineralka_1l.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Сок 1 литр",
+    "Description": "Таттуу жемиштерден жасалган табигый сок (1 литр)",
+    "Price": 150,
+    "ImageUrl": "juice_1l.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Кара чай",
+    "Description": "Чайнекке демделген классикалык кара чай",
+    "Price": 30,
+    "ImageUrl": "chay_simple.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Жашыл чай",
+    "Description": "Сергитүүчү жана пайдалуу ысык жашыл чай",
+    "Price": 30,
+    "ImageUrl": "green_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Нават чай",
+    "Description": "Нават кант кристаллдары кошулуп демделген таттуу чай",
+    "Price": 90,
+    "ImageUrl": "navat_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Лимон чай",
+    "Description": "Жаңы лимон тилимдери кошулган сергитүүчү ысык чай",
+    "Price": 110,
+    "ImageUrl": "lemon_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Имбирь с медом чай",
+    "Description": "Имбирь тамыры жана табигый бал кошулган дарылык чай",
+    "Price": 180,
+    "ImageUrl": "imbir_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Малиновый чай",
+    "Description": "Жыпар жыттуу малина кыямы (варенье) менен демделген чай",
+    "Price": 180,
+    "ImageUrl": "malina_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Клубничный чай",
+    "Description": "Клубника мөмөлөрү кошулган жагымдуу таттуу чай",
+    "Price": 180,
+    "ImageUrl": "klubnika_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Фруктовый чай",
+    "Description": "Ар түрдүү кургатылган жана жаңы жемиштерден жасалган чай",
+    "Price": 190,
+    "ImageUrl": "fruktovyi_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Ташкентский чай",
+    "Description": "Лимон, жалбыз (мята) жана өзгөчө татымалдар менен Ташкент чайы",
+    "Price": 190,
+    "ImageUrl": "tashkent_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Аралаш чай",
+    "Description": "Кара жана жашыл чай жалбырактарынын өзгөчө аралашмасы",
+    "Price": 30,
+    "ImageUrl": "aralash_tea.jpg",
+    "Category": "СУУСУНДУКТАР"
+  },
+  {
+    "Name": "Морковный торт",
+    "Description": "Сабиз жана назик каймак креминен жасалган жумшак десерт",
+    "Price": 290,
+    "ImageUrl": "morkovnyi_cake.jpg",
+    "Category": "ШИРИНДИКТЕР"
+  },
+  {
+    "Name": "Панчо торт",
+    "Description": "Ананас кесимдери жана бисквит менен жасалган Панчо торту",
+    "Price": 190,
+    "ImageUrl": "pancho.jpg",
+    "Category": "ШИРИНДИКТЕР"
+  },
+  {
+    "Name": "Сан Себастьян чизкейк",
+    "Description": "Үстү кытырак күйгүзүлгөн, ичи назик кремдүү чизкейк",
+    "Price": 290,
+    "ImageUrl": "san_sebastian.jpg",
+    "Category": "ШИРИНДИКТЕР"
+  },
+  {
+    "Name": "Три шоколада торт",
+    "Description": "Үч түрдүү шоколад муссунан куралган шоколаддуу десерт",
+    "Price": 290,
+    "ImageUrl": "tri_shokolada.jpg",
+    "Category": "ШИРИНДИКТЕР"
+  },
+  {
+    "Name": "Медовик",
+    "Description": "Табигый бал катмарлары жана назик крем менен жасалган салттуу медовик",
+    "Price": 180,
+    "ImageUrl": "medovik.jpg",
+    "Category": "ШИРИНДИКТЕР"
   }
 ]

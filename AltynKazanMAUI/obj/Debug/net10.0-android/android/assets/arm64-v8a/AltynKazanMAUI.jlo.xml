@@ -7,9 +7,18 @@
       </constructors>
     </type>
     <type name="MainApplication" package="crc6440ac21e37684dd26" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="AltynKazanMAUI.MainApplication, AltynKazanMAUI" application_constructor="MainApplication" />
+    <type name="CustomAdminReceiver" package="crc6479a8d1cb537d2f06" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="android.app.admin.DeviceAdminReceiver" partial_assembly_qualified_name="AltynKazanMAUI.Platforms.Android.CustomAdminReceiver, AltynKazanMAUI">
+      <constructors>
+        <constructor name="CustomAdminReceiver" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+      </constructors>
+      <methods>
+        <method name="onEnabled" method="n_onEnabled:(Landroid/content/Context;Landroid/content/Intent;)V:GetOnEnabled_Landroid_content_Context_Landroid_content_Intent_Handler" jni_signature="(Landroid/content/Context;Landroid/content/Intent;)V" params="android.content.Context p0, android.content.Intent p1" retval="void" is_dynamically_registered="True" super_call="p0, p1" activate_call="p0, p1" />
+      </methods>
+    </type>
   </jcw-types>
   <acw-types partial-assembly-name="AltynKazanMAUI" module-name="AltynKazanMAUI.dll">
     <type assembly-qualified-name="AltynKazanMAUI.MainActivity, AltynKazanMAUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="altynkazanmaui.MainActivity" java-key="crc6440ac21e37684dd26.MainActivity" managed-key="AltynKazanMAUI.MainActivity" partial-assembly-qualified-name="AltynKazanMAUI.MainActivity, AltynKazanMAUI" />
     <type assembly-qualified-name="AltynKazanMAUI.MainApplication, AltynKazanMAUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="altynkazanmaui.MainApplication" java-key="crc6440ac21e37684dd26.MainApplication" managed-key="AltynKazanMAUI.MainApplication" partial-assembly-qualified-name="AltynKazanMAUI.MainApplication, AltynKazanMAUI" />
+    <type assembly-qualified-name="AltynKazanMAUI.Platforms.Android.CustomAdminReceiver, AltynKazanMAUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="altynkazanmaui.platforms.android.CustomAdminReceiver" java-key="crc6479a8d1cb537d2f06.CustomAdminReceiver" managed-key="AltynKazanMAUI.Platforms.Android.CustomAdminReceiver" partial-assembly-qualified-name="AltynKazanMAUI.Platforms.Android.CustomAdminReceiver, AltynKazanMAUI" />
   </acw-types>
 </api>
